@@ -16,6 +16,7 @@ urllib3==1.26.6
 accelerate
 bitsandbytes
 click
+tokenizers>=0.13.3
 
 # Excel File Manipulation
 openpyxl
